@@ -1,4 +1,3 @@
-[submodule "DeepDenoiser"]
 	path = DeepDenoiser
 	url = https://github.com/wayneweiqiang/DeepDenoiser.git
 	branch = master
