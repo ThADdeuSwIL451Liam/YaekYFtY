@@ -64,7 +64,6 @@ BreakBeforeTernaryOperators: false
 BreakConstructorInitializersBeforeComma: false
 BreakConstructorInitializers: BeforeComma # Unknown to clang-format-4.0
 BreakInheritanceList: BeforeColon # Unknown to clang-format-6.0
-BreakAfterJavaFieldAnnotations: false
 BreakStringLiterals: false
 ColumnLimit: 100
 CommentPragmas: '^ IC pragma:'
