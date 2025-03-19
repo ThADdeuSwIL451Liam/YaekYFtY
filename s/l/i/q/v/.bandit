@@ -1,3 +1,0 @@
-[bandit]
-exclude: salt/ext/tornado/*,tests/minionswarm.py
-skip: B701
