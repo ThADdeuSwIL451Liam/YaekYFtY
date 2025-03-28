@@ -11,6 +11,5 @@ preferred-citation:
     given-names: "Sofie"
   - family-names: "Boyd"
     given-names: "Adriane"
-  title: "spaCy: Industrial-strength Natural Language Processing in Python"
   doi: "10.5281/zenodo.1212303"
   year: 2020
