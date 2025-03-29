@@ -135,4 +135,3 @@
 * Support classes that are both `Worker` and `RibCoroutineWorker` in co… by @psteiger in https://github.com/uber/RIBs/pull/629
 * Increase buffer capacity for mutableRouterEvents flow within RibEvents by @RahulDMello in https://github.com/uber/RIBs/pull/635
 * Add test asserting Rx subscription is disposed after `RibCoroutineWor… by @psteiger in https://github.com/uber/RIBs/pull/628
-
