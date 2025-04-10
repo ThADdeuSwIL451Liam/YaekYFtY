@@ -30,7 +30,6 @@ GITHUB_TOKEN=
 # (i.e. local, manual) deployments.
 GPG_PASSPHRASE=
 
-# GPG private key
 #
 # Required: if deploying with CI/CD
 # On-Sync: mirror
