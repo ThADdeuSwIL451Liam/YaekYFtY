@@ -202,7 +202,6 @@
 
 ### Added
 
-- aws resources: `aws_autoscaling_schedule`
   ([PR #194](https://github.com/cycloidio/terracognita/pull/224))
 
 ### Changed
