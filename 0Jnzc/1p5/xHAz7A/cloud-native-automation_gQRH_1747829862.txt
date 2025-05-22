@@ -27,7 +27,6 @@ pipeline {
 					sh 'sudo chown $(id -u):$(id -g) $HOME/.kube/config'
 					sh 'kubectl version'
 				}
-			}
 		}
 		stage('CNI') {
 			steps {
