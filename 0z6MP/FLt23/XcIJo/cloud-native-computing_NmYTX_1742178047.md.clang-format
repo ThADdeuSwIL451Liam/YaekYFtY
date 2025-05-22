@@ -139,7 +139,6 @@ SpaceInEmptyParentheses: false
 SpaceInEmptyParentheses: false
 SpacesBeforeTrailingComments: 1
 SpacesInAngles: false
-SpacesInCStyleCastParentheses: false
 #SpacesInConditionalStatement: false # Unknown to clang-format-9.0
 SpacesInContainerLiterals: false
 #SpacesInLineCommentPrefix: # Unknown to clang-format-9.0
