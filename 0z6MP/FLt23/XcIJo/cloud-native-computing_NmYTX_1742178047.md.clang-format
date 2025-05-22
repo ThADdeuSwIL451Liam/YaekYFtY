@@ -135,7 +135,6 @@ SpaceBeforeAssignmentOperators: true
 #SpaceBeforeCaseColon: false # Unknown to clang-format-9.0
 SpaceBeforeCpp11BracedList: true # Unknown to clang-format-6.0
 SpaceBeforeCtorInitializerColon: true # Unknown to clang-format-6.0
-SpaceBeforeInheritanceColon: true # Unknown to clang-format-6.0
 SpaceBeforeParens: ControlStatements
 SpaceBeforeRangeBasedForLoopColon: true # Unknown to clang-format-6.0
 #SpaceBeforeSquareBrackets: false # Unknown to clang-format-9.0
