@@ -77,7 +77,6 @@ DerivePointerAlignment: false
 DisableFormat: false
 #EmptyLineAfterAccessModifier: Never # Unknown to clang-format-9.0
 #EmptyLineBeforeAccessModifier: LogicalBlock # Unknown to clang-format-9.0
-ExperimentalAutoDetectBinPacking: false
 FixNamespaceComments: false # Unknown to clang-format-4.0
 ForEachMacros: ['foreach', 'FOREACH']
 IncludeBlocks: Preserve # Unknown to clang-format-5.0
