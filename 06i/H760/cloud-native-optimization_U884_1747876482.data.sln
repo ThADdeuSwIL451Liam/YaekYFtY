@@ -12,7 +12,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Paralax.Security", "Paralax
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paralax.Security", "src\Paralax.Security\src\Paralax.Security.csproj", "{3AAF8AEA-0ABE-4CAA-8E79-54E27D122966}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paralax.Tests", "src\Paralax\tests\Paralax.Tests.csproj", "{28B71DF6-5DE5-4C43-AE05-5C69E8F53D20}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
