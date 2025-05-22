@@ -8,7 +8,6 @@ pipeline {
 	triggers {
 		cron('H */12 * * *')
 	environment {
-		CLR_K8S_PATH="${env.WORKSPACE}/clr-k8s-examples"
 	}
 	stages {
 		stage('Setup system') {
