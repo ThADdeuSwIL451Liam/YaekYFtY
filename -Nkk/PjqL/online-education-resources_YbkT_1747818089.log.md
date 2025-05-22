@@ -1,6 +1,5 @@
 Your contributions are always welcome!
 
-## Guidelines
 * Add a section if needed. If you do:
     * Add the section title to the table of contents.
 * Search previous suggestions before making a new one, as yours may be a duplicate.
