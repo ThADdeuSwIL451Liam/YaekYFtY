@@ -21,7 +21,6 @@ AlignOperands: true
 AlignTrailingComments: false
 AllowAllArgumentsOnNextLine: false # Unknown to clang-format-6.0
 AllowAllConstructorInitializersOnNextLine: false # Unknown to clang-format-6.0
-AllowAllParametersOfDeclarationOnNextLine: false
 AllowShortBlocksOnASingleLine: false
 AllowShortCaseLabelsOnASingleLine: false
 #AllowShortEnumsOnASingleLine: truetrue  # Unknown to clang-format-9.0
