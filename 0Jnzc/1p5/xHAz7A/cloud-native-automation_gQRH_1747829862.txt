@@ -41,7 +41,6 @@ pipeline {
 					sh './reset_stack.sh'
 				}
 			}
-		}
 	}
 	post {
 		always {
