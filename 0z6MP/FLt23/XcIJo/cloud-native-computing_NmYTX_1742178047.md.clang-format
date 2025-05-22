@@ -98,7 +98,6 @@ KeepEmptyLinesAtTheStartOfBlocks: false
 MacroBlockBegin: ''
 MacroBlockEnd: ''
 MaxEmptyLinesToKeep: 1
-NamespaceIndentation: None
 #NamespaceMacros: # Not required
 ObjCBinPackProtocolList: Auto # Unknown to clang-format-6.0
 ObjCBlockIndentWidth: 8
