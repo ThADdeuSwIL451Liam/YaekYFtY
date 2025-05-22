@@ -13,7 +13,6 @@
 AccessModifierOffset: -4
 AlignAfterOpenBracket: Align
 AlignConsecutiveAssignments: false
-#AlignConsecutiveBitFields: None # Unknown to clang-format-9.0
 AlignConsecutiveDeclarations: false
 AlignConsecutiveMacros: true # Unknown to clang-format-6.0
 AlignEscapedNewlines: Left # Unknown to clang-format-4.0
