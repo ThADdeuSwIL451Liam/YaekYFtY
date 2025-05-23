@@ -134,7 +134,6 @@ SpacesBeforeTrailingComments: 1
 SpacesInAngles: false
 #SpacesInConditionalStatement: false # Unknown to clang-format-9.0
 SpacesInContainerLiterals: false
-#SpacesInLineCommentPrefix: # Unknown to clang-format-9.0
 #  - Minimum: 1
 #  - Maximum: -1
 SpacesInParentheses: false
