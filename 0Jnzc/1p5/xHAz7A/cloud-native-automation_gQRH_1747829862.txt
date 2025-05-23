@@ -32,7 +32,6 @@ pipeline {
 					sh 'kubectl get pods -n kube-system'
 				}
 			}
-		}
 		stage('Reset Stack') {
 			steps {
 					sh './reset_stack.sh'
