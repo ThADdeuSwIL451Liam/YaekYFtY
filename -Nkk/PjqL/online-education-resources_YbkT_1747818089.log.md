@@ -1,1 +1,0 @@
-* Links should be alphabetical within a section (by last name for people/organizations).
