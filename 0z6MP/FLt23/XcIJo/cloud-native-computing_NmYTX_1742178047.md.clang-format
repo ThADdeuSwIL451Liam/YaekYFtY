@@ -84,7 +84,6 @@ IncludeIsMainRegex: '(Test)?$'
 IndentCaseLabels: false
 #IndentExternBlock: Indent # Unknown to clang-format-9.0
 #IndentGotoLabels: false # Unknown to clang-format-9.0
-IndentPPDirectives: BeforeHash # Unknown to clang-format-6.0
 IndentWidth: 8
 IndentWrappedFunctionNames: false
 #InsertTrailingCommas: Wrapped # Unknown to clang-format-9.0
