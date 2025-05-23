@@ -120,7 +120,6 @@ SortIncludes: false
 SortUsingDeclarations: false # Unknown to clang-format-4.0
 SpaceAfterCStyleCast: false
 SpaceAfterLogicalNot: false # Unknown to clang-format-6.0
-SpaceAfterTemplateKeyword: true
 SpaceBeforeAssignmentOperators: true
 #SpaceBeforeCaseColon: false # Unknown to clang-format-9.0
 SpaceBeforeCpp11BracedList: true # Unknown to clang-format-6.0
