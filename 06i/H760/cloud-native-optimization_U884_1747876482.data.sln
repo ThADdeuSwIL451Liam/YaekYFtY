@@ -3,7 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Paralax", "Paralax", "{9159B09B-9DC8-4D2F-8565-81665C797AA9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paralax", "src\Paralax\src\Paralax.csproj", "{CE1DCE8C-5954-4522-923E-64357F83FDB1}"
 EndProject
