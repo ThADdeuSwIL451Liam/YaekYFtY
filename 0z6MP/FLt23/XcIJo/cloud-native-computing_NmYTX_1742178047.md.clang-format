@@ -36,7 +36,6 @@ BinPackParameters: true
 #BitFieldColonSpacing: None # Unknown to clang-format-9.0
 BraceWrapping:
   AfterCaseLabel: false # Unknown to clang-format-6.0
-  AfterClass: false
   AfterControlStatement: false
   AfterEnum: false
   AfterFunction: true
