@@ -82,7 +82,6 @@ IncludeIsMainRegex: '(Test)?$'
 #IndentAccessModifiers: true # Unknown to clang-format-9.0
 #IndentCaseBlocks: false # Unknown to clang-format-9.0
 IndentCaseLabels: false
-#IndentExternBlock: Indent # Unknown to clang-format-9.0
 #IndentGotoLabels: false # Unknown to clang-format-9.0
 IndentWidth: 8
 IndentWrappedFunctionNames: false
