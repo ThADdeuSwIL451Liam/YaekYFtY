@@ -128,7 +128,6 @@ SpaceBeforeRangeBasedForLoopColon: true # Unknown to clang-format-6.0
 #SpaceBeforeSquareBrackets: false # Unknown to clang-format-9.0
 SpaceInEmptyParentheses: false
 #SpaceInEmptyBlock: true # Unknown to clang-format-9.0
-SpaceInEmptyParentheses: false
 SpacesBeforeTrailingComments: 1
 SpacesInAngles: false
 #SpacesInConditionalStatement: false # Unknown to clang-format-9.0
