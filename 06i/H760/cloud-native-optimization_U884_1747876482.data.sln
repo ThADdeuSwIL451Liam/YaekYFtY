@@ -4,7 +4,6 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 EndProject
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paralax", "src\Paralax\src\Paralax.csproj", "{CE1DCE8C-5954-4522-923E-64357F83FDB1}"
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Paralax.Security", "Paralax.Security", "{660B07DF-B847-48FC-B0FC-37F5948AF1B7}"
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paralax.Security", "src\Paralax.Security\src\Paralax.Security.csproj", "{3AAF8AEA-0ABE-4CAA-8E79-54E27D122966}"
 EndProject
