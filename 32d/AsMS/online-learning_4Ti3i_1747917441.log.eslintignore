@@ -5,7 +5,6 @@ integrations/*
 integrations_dev/*
 assets/scripts/*
 third_party/*
-build/*
 *.min.js
 dump.rdb
 .direnv/*
