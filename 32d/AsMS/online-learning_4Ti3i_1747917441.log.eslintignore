@@ -7,7 +7,6 @@ assets/scripts/*
 third_party/*
 *.min.js
 dump.rdb
-.direnv/*
 tmpcompiledjs*
 dist/*
 local_compiled_js/*
